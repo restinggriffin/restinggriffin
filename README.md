@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @restinggriffin
+- 👋 Hi, I’m @restinggriffin, don't pay to much attention to my username
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning random stuff
 - 💞️ I’m looking to collaborate on anything that sounds interesting
-- 📫 How to reach me, good question, IDK
+- 📫 How to reach me, good question, IDK yet
 - ✨ Started coding from 7 years old, often mix up different languages though
 
 <!---
