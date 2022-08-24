@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @restinggriffin, don't pay to much attention to my username
+- 👋 Hi, I’m Saimai, don't pay to much attention to my username
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning random stuff
 - 💞️ I’m looking to collaborate on anything that sounds interesting
